@@ -4,10 +4,10 @@
     "channelList": [
       {
         "channelId": [
-          "101", // 3BB Asian
-          "103", // HBO
-          "104", // HBO Hits
-          "105"  // HBO Signature   
+          "101",
+          "103",
+          "104",
+          "105"   
         ],
         "genreCode": "1:7",
         "genreNameEn": "Movie",
