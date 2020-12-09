@@ -1,51 +1,51 @@
 {
-  "returnCode": "S",
-  "data": {
-    "channelList": [
-      {
-        "channelId": [
-          "101",
-          "103",
-          "104",
-          "105"   
-        ],
-        "genreCode": "1:7",
-        "genreNameEn": "Movie",
-        "genreNameTh": "หนังและซีรีส์"
-      },
-      {
-        "channelId": [
-          "202",
-          "206",
-          "207",
-          "605"
-        ],
-        "genreCode": "1:6",
-        "genreNameEn": "Entertainment",
-        "genreNameTh": "ความบันเทิง"
-      },
-      {
-        "channelId": [
-          "401",
-          "403",
-          "602",
-          "604"
-        ],
-        "genreCode": "1:2",
-        "genreNameEn": "Sport",
-        "genreNameTh": "กีฬา"
-      },
-      {
-        "channelId": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "genreCode": "1:1",
-        "genreNameEn": "Digital TV",
-        "genreNameTh": "ทีวีดิจิตอล"
-      },
-    ]
-  }
+   "returnCode":"S",
+   "data":{
+      "channelList":[
+         {
+            "channelId":[
+               "101",
+               "103",
+               "104",
+               "105"
+            ],
+            "genreCode":"1:7",
+            "genreNameEn":"Movie",
+            "genreNameTh":"หนังและซีรีส์"
+         },
+         {
+            "channelId":[
+               "202",
+               "206",
+               "207",
+               "605"
+            ],
+            "genreCode":"1:6",
+            "genreNameEn":"Entertainment",
+            "genreNameTh":"ความบันเทิง"
+         },
+         {
+            "channelId":[
+               "401",
+               "403",
+               "602",
+               "604"
+            ],
+            "genreCode":"1:2",
+            "genreNameEn":"Sport",
+            "genreNameTh":"กีฬา"
+         },
+         {
+            "channelId":[
+               "1",
+               "2",
+               "3",
+               "4"
+            ],
+            "genreCode":"1:1",
+            "genreNameEn":"Digital TV",
+            "genreNameTh":"ทีวีดิจิตอล"
+         }
+      ]
+   }
 }
