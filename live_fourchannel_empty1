@@ -2,7 +2,7 @@
   "returnCode":"S",
   "data":{
     "channelList":[
-            {
+      {
         "channelId":[
           "403",
           "404"
