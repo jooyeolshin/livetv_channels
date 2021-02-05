@@ -2,6 +2,14 @@
   "returnCode":"S",
   "data":{
     "channelList":[
+          {
+        "channelId":[
+          "205"
+        ],
+        "genreCode":"1:6",
+        "genreNameEn":"Entertainment",
+        "genreNameTh":"สารพันบันเทิง"
+      },
       {
         "channelId":[
           "403",
@@ -23,16 +31,8 @@
       },
       {
         "channelId":[
-          "205"
-        ],
-        "genreCode":"1:6",
-        "genreNameEn":"Entertainment",
-        "genreNameTh":"สารพันบันเทิง"
-      },
-      {
-        "channelId":[
-          "1",
           "2",
+          "1",
           "3",
           "4"
         ],
