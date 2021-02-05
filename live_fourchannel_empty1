@@ -26,20 +26,20 @@
       },
       {
         "channelId":[
-          "205"
-        ],
-        "genreCode":"1:6",
-        "genreNameEn":"Entertainment-2",
-        "genreNameTh":"สารพันบันเทิง"
-      },
-      {
-        "channelId":[
           "403",
           "404"
         ],
         "genreCode":"1:2",
         "genreNameEn":"Sport",
         "genreNameTh":"กีฬา"
+      },
+      {
+        "channelId":[
+          "205"
+        ],
+        "genreCode":"1:6",
+        "genreNameEn":"Entertainment-2",
+        "genreNameTh":"สารพันบันเทิง"
       }
     ]
   }
