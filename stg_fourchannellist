@@ -8,7 +8,7 @@
           "7"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Entertainment",
+        "genreNameEn":"Entertainment-1",
         "genreNameTh":"ความบันเทิง"
       },
       {
@@ -17,7 +17,7 @@
           "3"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie",
+        "genreNameEn":"Movie-2",
         "genreNameTh":"หนังและซีรีส์"
       },
       {
@@ -25,7 +25,7 @@
           "3"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport",
+        "genreNameEn":"Sport-2",
         "genreNameTh":"กีฬา"
       },
       {
@@ -34,7 +34,7 @@
           "13"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV",
+        "genreNameEn":"Digital TV-2",
         "genreNameTh":"ทีวีดิจิตอล"
       }
     ]
