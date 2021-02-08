@@ -4,20 +4,20 @@
     "channelList":[
       {
         "channelId":[
+          "205"
+        ],
+        "genreCode":"1:6",
+        "genreNameEn":"Entertainment-7",
+        "genreNameTh":"สารพันบันเทิง"
+      },
+      {
+        "channelId":[
           "403",
           "404"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport-5",
+        "genreNameEn":"Sport-7",
         "genreNameTh":"กีฬา"
-      },
-      {
-        "channelId":[
-          "205"
-        ],
-        "genreCode":"1:6",
-        "genreNameEn":"Entertainment-5",
-        "genreNameTh":"สารพันบันเทิง"
       },
       {
         "channelId":[
@@ -27,18 +27,18 @@
           "101"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie-5",
+        "genreNameEn":"Movie-7",
         "genreNameTh":"หนังและซีรีส์"
       },
       {
         "channelId":[
           "4",
+          "1",
           "3",
-          "2",
-          "1"
+          "2"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV",
+        "genreNameEn":"Digital TV-7",
         "genreNameTh":"ดิจิตอลทีวี"
       }
     ]
