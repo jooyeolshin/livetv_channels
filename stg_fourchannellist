@@ -4,21 +4,8 @@
       "channelList":[
          {
             "channelId":[
-               "2",
-               "3",
-               "4",
-               "5"
-            ],
-            "genreCode":"1:7",
-            "genreNameEn":"Movie",
-            "genreNameTh":"หนังและซีรีส์"
-         },
-         {
-            "channelId":[
                "6",
-               "7",
-               "8",
-               "9"
+               "7"
             ],
             "genreCode":"1:6",
             "genreNameEn":"Entertainment",
@@ -27,9 +14,15 @@
          {
             "channelId":[
                "2",
-               "1",
-               "3",
-               "4"
+               "3"
+            ],
+            "genreCode":"1:7",
+            "genreNameEn":"Movie",
+            "genreNameTh":"หนังและซีรีส์"
+         },
+         {
+            "channelId":[
+               "3"
             ],
             "genreCode":"1:2",
             "genreNameEn":"Sport",
@@ -37,8 +30,6 @@
          },
          {
             "channelId":[
-               "10",
-               "11",
                "12",
                "13"
             ],
