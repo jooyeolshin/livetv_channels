@@ -21,7 +21,7 @@
           "4"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport-STG-4",
+        "genreNameEn":"Sport",
         "genreNameTh":"กีฬา"
       },
       {
@@ -31,7 +31,7 @@
           "6"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Enter.-STG-5",
+        "genreNameEn":"Entertainment",
         "genreNameTh":"ความบันเทิง"
       },
       {
@@ -41,7 +41,7 @@
           "5"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie-STG-6",
+        "genreNameEn":"Movie",
         "genreNameTh":"หนังและซีรีส์"
       }
     ]
