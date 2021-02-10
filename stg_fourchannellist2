@@ -4,13 +4,13 @@
     "channelList":[
       {
         "channelId":[
-          "11",
-          "10",
           "2",
-          "3"
+          "1",
+          "3",
+          "4"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV",
+        "genreNameEn":"Sport-TV",
         "genreNameTh":"ทีวีดิจิตอล"
       },
       {
