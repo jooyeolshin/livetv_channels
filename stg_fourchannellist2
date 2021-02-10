@@ -4,11 +4,12 @@
     "channelList":[
       {
         "channelId":[
+          "11",
           "10",
-          "11"
+          "2"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV-STG-2",
+        "genreNameEn":"Digital TV-STG-3",
         "genreNameTh":"ทีวีดิจิตอล"
       },
       {
@@ -19,7 +20,7 @@
           "4"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport-STG-3",
+        "genreNameEn":"Sport-STG-4",
         "genreNameTh":"กีฬา"
       },
       {
@@ -29,7 +30,7 @@
           "6"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Enter.-STG-4",
+        "genreNameEn":"Enter.-STG-5",
         "genreNameTh":"ความบันเทิง"
       },
       {
@@ -39,7 +40,7 @@
           "5"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie-STG-5",
+        "genreNameEn":"Movie-STG-6",
         "genreNameTh":"หนังและซีรีส์"
       }
     ]
