@@ -5,13 +5,11 @@
       {
         "channelId":[
           "11",
-          "10",
-          "9",
-          "4"
+          "10"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"DigitalTV",
-        "genreNameTh":"디지털 티비"
+        "genreNameEn":"Digital TV[2]",
+        "genreNameTh":"ทีวีดิจิตอล"
       },
       {
         "channelId":[
@@ -21,8 +19,8 @@
           "4"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport",
-        "genreNameTh":"스포츠"
+        "genreNameEn":"Sport[3]",
+        "genreNameTh":"กีฬา"
       },
       {
         "channelId":[
@@ -31,8 +29,8 @@
           "6"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Entertainment",
-        "genreNameTh":"엔터테인먼트"
+        "genreNameEn":"Entertainment[4]",
+        "genreNameTh":"ความบันเทิง"
       },
       {
         "channelId":[
@@ -41,8 +39,8 @@
           "5"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie",
-        "genreNameTh":"무비^^"
+        "genreNameEn":"Movie[5]",
+        "genreNameTh":"หนังและซีรีส์"
       }
     ]
   }
