@@ -11,7 +11,7 @@
         ],
         "genreCode":"1:1",
         "genreNameEn":"DigitalTV",
-        "genreNameTh":"ทีวีดิจิตอล"
+        "genreNameTh":"디지털 티비"
       },
       {
         "channelId":[
@@ -22,7 +22,7 @@
         ],
         "genreCode":"1:2",
         "genreNameEn":"Sport",
-        "genreNameTh":"กีฬา"
+        "genreNameTh":"스포츠"
       },
       {
         "channelId":[
@@ -32,7 +32,7 @@
         ],
         "genreCode":"1:6",
         "genreNameEn":"Entertainment",
-        "genreNameTh":"ความบันเทิง"
+        "genreNameTh":"엔터테인먼트"
       },
       {
         "channelId":[
@@ -42,7 +42,7 @@
         ],
         "genreCode":"1:7",
         "genreNameEn":"Movie",
-        "genreNameTh":"หนังและซีรีส์"
+        "genreNameTh":"무비^^"
       }
     ]
   }
