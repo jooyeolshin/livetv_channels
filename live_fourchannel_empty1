@@ -10,7 +10,7 @@
           "2"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV-8",
+        "genreNameEn":"Digital TV-10",
         "genreNameTh":"ดิจิตอลทีวี"
       },
       {
@@ -18,7 +18,7 @@
           "205"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Entertainment-8",
+        "genreNameEn":"Entertainment-11",
         "genreNameTh":"สารพันบันเทิง"
       },
       {
@@ -27,7 +27,7 @@
           "404"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport-8",
+        "genreNameEn":"Sport-12",
         "genreNameTh":"กีฬา"
       },
       {
@@ -38,7 +38,7 @@
           "101"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie-8",
+        "genreNameEn":"Movie-15",
         "genreNameTh":"หนังและซีรีส์"
       }
 
