@@ -5,12 +5,12 @@
       {
         "channelId":[
           "4",
-          "1",
           "3",
+          "1",
           "2"
         ],
         "genreCode":"1:1",
-        "genreNameEn":"Digital TV-10",
+        "genreNameEn":"Digital TV-20",
         "genreNameTh":"ดิจิตอลทีวี"
       },
       {
@@ -18,7 +18,7 @@
           "205"
         ],
         "genreCode":"1:6",
-        "genreNameEn":"Entertainment-11",
+        "genreNameEn":"Entertainment-21",
         "genreNameTh":"สารพันบันเทิง"
       },
       {
@@ -27,7 +27,7 @@
           "404"
         ],
         "genreCode":"1:2",
-        "genreNameEn":"Sport-12",
+        "genreNameEn":"Sport-22",
         "genreNameTh":"กีฬา"
       },
       {
@@ -38,7 +38,7 @@
           "101"
         ],
         "genreCode":"1:7",
-        "genreNameEn":"Movie-15",
+        "genreNameEn":"Movie-25",
         "genreNameTh":"หนังและซีรีส์"
       }
 
