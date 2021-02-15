@@ -4,24 +4,25 @@
     "channelList":[
       {
         "channelId":[
-          "403",
-          "404",
-          "4"
-        ],
-        "genreCode":"1:2",
-        "genreNameEn":"Sport-731",
-        "genreNameTh":"กีฬา"
-      },
-      {
-        "channelId":[
           "4",
           "3",
-          "1",
-          "2"
+          "2",
+          "1"
         ],
         "genreCode":"1:1",
         "genreNameEn":"Digital TV-735",
         "genreNameTh":"ดิจิตอลทีวี"
+      },
+      {
+        "channelId":[
+          "403",
+          "404",
+          "4",
+		  "2"
+        ],
+        "genreCode":"1:2",
+        "genreNameEn":"Sport-731",
+        "genreNameTh":"กีฬา"
       },
       {
         "channelId":[
