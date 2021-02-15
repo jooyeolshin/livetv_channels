@@ -6,7 +6,7 @@
         "channelId":[
           "403",
           "404",
-		  "4"
+          "4"
         ],
         "genreCode":"1:2",
         "genreNameEn":"Sport-731",
@@ -26,8 +26,8 @@
       {
         "channelId":[
           "205",
-		  "108",
-		  "101",
+          "108",
+          "101"
         ],
         "genreCode":"1:6",
         "genreNameEn":"Entertainment-751",
@@ -44,7 +44,6 @@
         "genreNameEn":"Movie-761",
         "genreNameTh":"หนังและซีรีส์"
       }
-
     ]
   }
 }
