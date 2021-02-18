@@ -1,0 +1,51 @@
+{
+  "returnCode": "S",
+  "data": {
+    "channelList": [
+      {
+        "channelId": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "genreCode": "1:7",
+        "genreNameEn": "Movie-stg",
+        "genreNameTh": "หนังและซีรีส์"
+      },
+      {
+        "channelId": [
+          "9",
+          "8",
+          "12",
+          "6"
+        ],
+        "genreCode": "1:6",
+        "genreNameEn": "Entertainment-stg",
+        "genreNameTh": "ความบันเทิง"
+      },
+      {
+        "channelId": [
+          "4",
+          "5",
+          "6",
+          "12"
+        ],
+        "genreCode": "1:2",
+        "genreNameEn": "Sport-stg",
+        "genreNameTh": "กีฬา"
+      },
+      {
+        "channelId": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "genreCode": "1:1",
+        "genreNameEn": "Digital TV",
+        "genreNameTh": "ทีวีดิจิตอล"
+      }
+    ]
+  }
+}
