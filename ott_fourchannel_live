@@ -1,48 +1,48 @@
 {
-  "returnCode": "S",
-  "data": {
-    "channelList": [
+  "returnCode":"S",
+  "data":{
+    "channelList":[
       {
-        "channelId": [
+        "channelId":[
           "104",
           "105"
         ],
-        "genreCode": "1:7",
-        "genreNameEn": "Movi-2",
-        "genreNameTh": "หนังและซีรีส์"
+        "genreCode":"1:7",
+        "genreNameEn":"Movi-2",
+        "genreNameTh":"หนังและซีรีส์"
       },
       {
-        "channelId": [
+        "channelId":[
           "404",
           "403",
           "401",
           "402"
         ],
-        "genreCode": "1:2",
-        "genreNameEn": "Sport-2",
-        "genreNameTh": "กีฬา"
+        "genreCode":"1:2",
+        "genreNameEn":"Sport-2",
+        "genreNameTh":"กีฬา"
       },
       {
-        "channelId": [
+        "channelId":[
           "207",
           "206",
           "205",
           "202"
         ],
-        "genreCode": "1:6",
-        "genreNameEn": "Entertainment-2",
-        "genreNameTh": "สารพันบันเทิง"
+        "genreCode":"1:6",
+        "genreNameEn":"Entertainment-2",
+        "genreNameTh":"สารพันบันเทิง"
       },
       {
-        "channelId": [
+        "channelId":[
           "4",
           "2",
           "1000",
-          "1001",
+          "1001"
         ],
-        "genreCode": "1:1",
-        "genreNameEn": "Digital TV-2",
-        "genreNameTh": "ดิจิตอลทีวี"
+        "genreCode":"1:1",
+        "genreNameEn":"Digital TV-2",
+        "genreNameTh":"ดิจิตอลทีวี"
       }
     ]
   }
