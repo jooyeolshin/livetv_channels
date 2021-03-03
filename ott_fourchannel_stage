@@ -7,7 +7,7 @@
           "9",
           "8",
           "12",
-          "6"
+          "50"
         ],
         "genreCode": "1:6",
         "genreNameEn": "Entertainment-stg",
@@ -25,10 +25,10 @@
       },
       {
         "channelId": [
-          "4",
+          "12",
           "5",
           "6",
-          "12"
+          "4"
         ],
         "genreCode": "1:2",
         "genreNameEn": "Sport-stg",
@@ -36,10 +36,10 @@
       },
       {
         "channelId": [
-          "7",
+          "10",
+          "88",
           "8",
-          "9",
-          "10"
+          "5"
         ],
         "genreCode": "1:1",
         "genreNameEn": "Dig_TV-stg",
