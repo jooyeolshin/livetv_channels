@@ -1,49 +1,48 @@
 {
-  "returnCode": "S",
-  "data": {
-    "channelList": [
+  "returnCode":"S",
+  "data":{
+    "channelList":[
       {
-        "channelId": [
-          "3",
-          "4"
-
-        ],
-        "genreCode": "1:7",
-        "genreNameEn": "Movie-stg",
-        "genreNameTh": "หนังและซีรีส์"
-      },
-      {
-        "channelId": [
-          "9",
-          "8",
-          "12",
-          "50"
-        ],
-        "genreCode": "1:6",
-        "genreNameEn": "Entertainment-stg",
-        "genreNameTh": "ความบันเทิง"
-      },
-      {
-        "channelId": [
-          "12",
-          "5",
-          "6",
-          "4"
-        ],
-        "genreCode": "1:2",
-        "genreNameEn": "Sport-stg",
-        "genreNameTh": "กีฬา"
-      },
-      {
-        "channelId": [
+        "channelId":[
           "10",
           "88",
           "8",
           "5"
         ],
-        "genreCode": "1:1",
-        "genreNameEn": "Dig_TV-stg",
-        "genreNameTh": "ทีวีดิจิตอล"
+        "genreCode":"1:1",
+        "genreNameEn":"Dig_TV-stg",
+        "genreNameTh":"ทีวีดิจิตอล"
+      },
+      {
+        "channelId":[
+          "3",
+          "4"
+        ],
+        "genreCode":"1:7",
+        "genreNameEn":"Movie-stg",
+        "genreNameTh":"หนังและซีรีส์"
+      },
+      {
+        "channelId":[
+          "9",
+          "8",
+          "12",
+          "50"
+        ],
+        "genreCode":"1:6",
+        "genreNameEn":"Entertainment-stg",
+        "genreNameTh":"ความบันเทิง"
+      },
+      {
+        "channelId":[
+          "12",
+          "5",
+          "6",
+          "4"
+        ],
+        "genreCode":"1:2",
+        "genreNameEn":"Sport-stg",
+        "genreNameTh":"กีฬา"
       }
     ]
   }
