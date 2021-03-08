@@ -4,6 +4,16 @@
     "channelList": [
       {
         "channelId": [
+          "3",
+          "4"
+
+        ],
+        "genreCode": "1:7",
+        "genreNameEn": "Movie-stg",
+        "genreNameTh": "หนังและซีรีส์"
+      },
+      {
+        "channelId": [
           "9",
           "8",
           "12",
@@ -12,16 +22,6 @@
         "genreCode": "1:6",
         "genreNameEn": "Entertainment-stg",
         "genreNameTh": "ความบันเทิง"
-      },
-      {
-        "channelId": [
-          "3",
-          "4"
-
-        ],
-        "genreCode": "1:7",
-        "genreNameEn": "Movie-stg",
-        "genreNameTh": "หนังและซีรีส์"
       },
       {
         "channelId": [
